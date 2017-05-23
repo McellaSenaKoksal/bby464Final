@@ -1,0 +1,1506 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/Bjd5f31RFiRl2vKauIOTvZ#"
+     xml:base="http://webprotege.stanford.edu/project/Bjd5f31RFiRl2vKauIOTvZ"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/Bjd5f31RFiRl2vKauIOTvZ"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9JB9ANKD1AJBBWOlM0ow6 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9JB9ANKD1AJBBWOlM0ow6">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <rdfs:label>HasAward</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBU082CsmEgAmpiIoMU2hSL -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBU082CsmEgAmpiIoMU2hSL">
+        <rdfs:label>HasBıographicFilm</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBb26JuEW9kt303JI7Byd6W -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBb26JuEW9kt303JI7Byd6W">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HasBiographicBook</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7fderhzFaL02McVjoiwv4J -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R7fderhzFaL02McVjoiwv4J">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>IconsNation</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ouAwISkQ7Rg81ku9Phtyz -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8ouAwISkQ7Rg81ku9Phtyz">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>IconsOld</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBHhCLJGaKz2oolmUQSbXO7 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBHhCLJGaKz2oolmUQSbXO7">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>IconsGender</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBOaSJNHdlWDEsAWMcciPIT -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBOaSJNHdlWDEsAWMcciPIT">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>IconsName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCf3Wq67wAf5dVbNg1BNDTg -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCf3Wq67wAf5dVbNg1BNDTg">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>IconsProfessional</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7P8RptaC28H13kd5PpP5NK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7P8RptaC28H13kd5PpP5NK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8J1vxAUCCiyAGRwpKLDSUM"/>
+        <rdfs:label>Bike</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7WdwTLc8u2zkgEIXwKuChF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7WdwTLc8u2zkgEIXwKuChF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <rdfs:label>Bestseller</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Sports</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7XoClQvsQEZOplDq76UNgm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7XoClQvsQEZOplDq76UNgm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <rdfs:label>Running</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7aXFrAWF41E4tdF6yhqbSv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7aXFrAWF41E4tdF6yhqbSv">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9"/>
+        <rdfs:label>Boxing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7azGPJUraTIxINwb5oF5mg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7azGPJUraTIxINwb5oF5mg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdfs:label>Swimming</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Music</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8J1vxAUCCiyAGRwpKLDSUM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8J1vxAUCCiyAGRwpKLDSUM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <rdfs:label>Riding</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8KOmrM1AbhORJ8GBfbXxcF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8KOmrM1AbhORJ8GBfbXxcF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdfs:label>Pop</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Mr65wU52y7pkgpdFrQs4A -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8Mr65wU52y7pkgpdFrQs4A">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <rdfs:label>Natural Sciences</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8fAqsfyXb8iDRKJIBjdwy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8fAqsfyXb8iDRKJIBjdwy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <rdfs:label>Indian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Literature</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9W87s9Xahgtt831JnW72S0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9W87s9Xahgtt831JnW72S0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9"/>
+        <rdfs:label>Judo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Y6KQKjMEqggRMTpKheEYB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9Y6KQKjMEqggRMTpKheEYB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RClFCPDoE6BZPzxEKc6Eup7"/>
+        <rdfs:label>South</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9arAw9HBy3GPR5y9MLU3qY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9arAw9HBy3GPR5y9MLU3qY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <rdfs:label>American</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Cinema</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBOOKF3kwgKgjLpGaI8UwKo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBOOKF3kwgKgjLpGaI8UwKo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <rdfs:label>Car</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBOnf7gAuc3SIwIAKgMGVOH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBOnf7gAuc3SIwIAKgMGVOH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdfs:label>Film&apos;s Soundtracks</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC7op7E7uKfvSZAzRZgr0Qn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC7op7E7uKfvSZAzRZgr0Qn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdfs:label>Football</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdfs:label>Race</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCTv2YBAaNMcVyaL33aqipE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCTv2YBAaNMcVyaL33aqipE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <rdfs:label>Accessory</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RClFCPDoE6BZPzxEKc6Eup7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RClFCPDoE6BZPzxEKc6Eup7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <rdfs:label>Africa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCm04Ogj2eNrnpFkB3N4lfH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCm04Ogj2eNrnpFkB3N4lfH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RClFCPDoE6BZPzxEKc6Eup7"/>
+        <rdfs:label>West</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD2GLc2kODciZUqVd8rm8pU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RD2GLc2kODciZUqVd8rm8pU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <rdfs:label>Classics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDC3b3SVJXErv9pykeEPbWG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDC3b3SVJXErv9pykeEPbWG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8J1vxAUCCiyAGRwpKLDSUM"/>
+        <rdfs:label>Horse</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDV876BvsdZvlTGrhGoDfVd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDV876BvsdZvlTGrhGoDfVd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <rdfs:label>Models</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDbGxB2PQloiBLXmJJVFVOx -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDbGxB2PQloiBLXmJJVFVOx">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDg9ynEnOlDZq4UhUUeBv6A"/>
+        <rdfs:label>Ottoman Empire</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDeAirLLWQU6QbET8LWRvEM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDeAirLLWQU6QbET8LWRvEM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdfs:label>Actors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDg9ynEnOlDZq4UhUUeBv6A -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDg9ynEnOlDZq4UhUUeBv6A">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <rdfs:label>Turkish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Fashion</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFdPSJJGsLbLQlkNbGfYRt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RFdPSJJGsLbLQlkNbGfYRt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdfs:label>Actresses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RI0VXLe0mQGrEqeNFSVNJk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RI0VXLe0mQGrEqeNFSVNJk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdfs:label>Rock</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RO18vhdBhXA5QNz9JnmWjg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RO18vhdBhXA5QNz9JnmWjg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdfs:label>Basketball</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RSWH1gGDPukEAbxllWmwNA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RSWH1gGDPukEAbxllWmwNA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdfs:label>Directors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RT7IVsfi9iSkZ2KY6FNoIZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RT7IVsfi9iSkZ2KY6FNoIZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDg9ynEnOlDZq4UhUUeBv6A"/>
+        <rdfs:label>Republic of Turkey</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Politics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXaxwbPr4t11TmuUf73uql -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RXaxwbPr4t11TmuUf73uql">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <rdfs:label>Mathematics and Computer Sciences</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdfs:label>Martial Arts</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Reks6hFmR6kiKLATi6rA4w -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Reks6hFmR6kiKLATi6rA4w">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <rdfs:label>American Fashion</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rkc9GZL7KQkfzMbbkyKaQB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rkc9GZL7KQkfzMbbkyKaQB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9"/>
+        <rdfs:label>Aikido</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RlMoLNsEbaP61GK5FKq5u6 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RlMoLNsEbaP61GK5FKq5u6">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <rdfs:label>Applied Sciences</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RtZ2qhSA2S9ulfFh1fkJQF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RtZ2qhSA2S9ulfFh1fkJQF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBOOKF3kwgKgjLpGaI8UwKo"/>
+        <rdfs:label>Formula1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R3V35dl9mQb0E2jG5hF9pe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R3V35dl9mQb0E2jG5hF9pe">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/R74lxS0AeWU6S9ERqMdthXU"/>
+        <rdfs:label>The founder of Apple</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R74lxS0AeWU6S9ERqMdthXU -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R74lxS0AeWU6S9ERqMdthXU">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RXaxwbPr4t11TmuUf73uql"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RlMoLNsEbaP61GK5FKq5u6"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1955</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Steve Jobs</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CEO</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Steve Jobs</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/cNnpGn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7PBweKrNHyAXmjZWzgw82N -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7PBweKrNHyAXmjZWzgw82N">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WdwTLc8u2zkgEIXwKuChF"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RC1KgNsZABUWKBfRWMdb5F9"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1947</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">stephen king</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Writer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">stephen king</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/AGcAXj"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7PMQALlRhpTNrh98vAOyeF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7PMQALlRhpTNrh98vAOyeF">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7azGPJUraTIxINwb5oF5mg"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1985</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Michale Phelps</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Swimming</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Michael Phelps</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/BuLJZ9"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Tl2In4GpI1s9Zz6WlQiLS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Tl2In4GpI1s9Zz6WlQiLS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDbGxB2PQloiBLXmJJVFVOx"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDg9ynEnOlDZq4UhUUeBv6A"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Turkish</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1432</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="tr">Fatih Sultan Mehmet</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="tr">Sultan</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Fatih Sultan Mehmet</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/2iFTqc"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ok5OUOc2t9ZYIG0N1HMOq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7ok5OUOc2t9ZYIG0N1HMOq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8J1vxAUCCiyAGRwpKLDSUM"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDC3b3SVJXErv9pykeEPbWG"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Turkish</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1908</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="tr">Melahat Aksel</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Horse Driver</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Melahat Aksel</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.kimkimdir.gen.tr/kimkimdir.php?id=2208"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7p6GwdkHIcJJBYiaZEMkzF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7p6GwdkHIcJJBYiaZEMkzF">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8KOmrM1AbhORJ8GBfbXxcF"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RC0V9UKllt4yl9Y7Lxjl4I3"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1958</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Michael Jackson</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Singer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Michael Jackson</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/UZhaez"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7t7zKArH5cHzBWjEvc4dre -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7t7zKArH5cHzBWjEvc4dre">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7P8RptaC28H13kd5PpP5NK"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8J1vxAUCCiyAGRwpKLDSUM"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1971</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Lance Armstrong</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Driver</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Lance Armstrong</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/tuDbNf"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7wbINgpoVSxE6ktvOkHjMr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7wbINgpoVSxE6ktvOkHjMr">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RBegpVzPy588UxpgskAHClA"/>
+        <rdfs:label>The founder of republic of Turkey</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN">
+        <rdfs:label>False</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8CPPdksAf5sBOxZLOinBWM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8CPPdksAf5sBOxZLOinBWM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RD2GLc2kODciZUqVd8rm8pU"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RTMnG3KsnWcStjMwrRXaNb"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">England</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1775</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Jane Austen</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Writer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Jane Austen</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/LtZ7u6"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8KbWQs6kUMEC1vthJevKrI -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8KbWQs6kUMEC1vthJevKrI">
+        <rdfs:label>Game of Trones&apos;s Writer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Va6iFbRbqXl15CGcjFuCL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8Va6iFbRbqXl15CGcjFuCL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBOOKF3kwgKgjLpGaI8UwKo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RtZ2qhSA2S9ulfFh1fkJQF"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Australia</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1949</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Niki Lauda</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Driver/Pilot</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Niki Lauda</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/f23mLM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8c13G2XqaOjEfrkIyGShcp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8c13G2XqaOjEfrkIyGShcp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9arAw9HBy3GPR5y9MLU3qY"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RDi733pvGHnZqEpAEwQrSOw"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1809</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Abraham Lincoln</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Politician</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Abraham Lincoln</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/T3hPov"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8rrz8XBSsQ3wCqAEDPY47d -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8rrz8XBSsQ3wCqAEDPY47d">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RO18vhdBhXA5QNz9JnmWjg"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1963</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Michale Jordan</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Basketballer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Michael Jordan</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/5rVLFy"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8zPmMaIB6ar9qmerUTU3EA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8zPmMaIB6ar9qmerUTU3EA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBOOKF3kwgKgjLpGaI8UwKo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RtZ2qhSA2S9ulfFh1fkJQF"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Brezilian</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1960</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Ayrton Senna</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Driver/Pilot</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Ayrton Senna</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/L5SdkQ"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R92A3LJszP2xeqNUggrxCLD -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R92A3LJszP2xeqNUggrxCLD">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WdwTLc8u2zkgEIXwKuChF"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RB9ESKC9f2MUAxnURBGoLM6"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RC1KgNsZABUWKBfRWMdb5F9"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="n">1948</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">George R. R. Martin</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Writer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">George R. R. Martin</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/2uUToU"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9BA7Q5MGLyEnHgDHqJdvTY -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9BA7Q5MGLyEnHgDHqJdvTY">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rkc9GZL7KQkfzMbbkyKaQB"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RBTFjr0HOqlKdcvpxCyO6nK"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Japan</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1883</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Morihei Ueshiba</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aikido</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Morihei Ueshiba</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/iweKuS"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9D4MLqndHXFYG6xK7TM8gC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9D4MLqndHXFYG6xK7TM8gC">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBOnf7gAuc3SIwIAKgMGVOH"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/Rt9lJjhJWSjHWa35XKwO9y"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RC1KgNsZABUWKBfRWMdb5F9"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Canada</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1968</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Celine Dion</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Singer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Celine Dion</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/nN8Gbo"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9No0ozppLPSHxE2h2DnqFo -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9No0ozppLPSHxE2h2DnqFo">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RBWGk4yrxM7koqXZXwkc6rW"/>
+        <rdfs:label>The leading actresses of Bodyguard</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9S8021HRWvJCKKxfEgAiGZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9S8021HRWvJCKKxfEgAiGZ">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RqKIXymfo5FZX97yYlmUkN"/>
+        <rdfs:label>King of Rock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9nc7Wdr8WIpXl2OIBjayfK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9nc7Wdr8WIpXl2OIBjayfK">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RSWH1gGDPukEAbxllWmwNA"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1963</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Quantin Tarantino</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Director</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Quantin Tarantino</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/4Zl1I4"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB0bcxD3cMRxphbbfT5PVuI -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB0bcxD3cMRxphbbfT5PVuI">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCTv2YBAaNMcVyaL33aqipE"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">France</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1883</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Coco Chanel</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Fashion/Designer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Coco Chanel</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/d3fAJC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB9ESKC9f2MUAxnURBGoLM6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB9ESKC9f2MUAxnURBGoLM6">
+        <rdfs:label>Game of Thrones&apos;s Writer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBTFjr0HOqlKdcvpxCyO6nK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBTFjr0HOqlKdcvpxCyO6nK">
+        <rdfs:label>The founder of Aikido</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBU3K2rqNBzKM8yvxeq5RXW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBU3K2rqNBzKM8yvxeq5RXW">
+        <rdfs:label>The leading actresses of Bodyguar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBUL5xuSK2GYYZWLZoAONG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBUL5xuSK2GYYZWLZoAONG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8Mr65wU52y7pkgpdFrQs4A"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="e">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1879</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Albert Einstein</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Scientist</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Albert Einstein</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/9oXo7C"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBWGk4yrxM7koqXZXwkc6rW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBWGk4yrxM7koqXZXwkc6rW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBOnf7gAuc3SIwIAKgMGVOH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RFdPSJJGsLbLQlkNbGfYRt"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1963</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Whitney Houston</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Singer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Whitney Houston</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/C4GPCZ"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBYrjEtjOJhKug5H9V8Exl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBYrjEtjOJhKug5H9V8Exl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RXaxwbPr4t11TmuUf73uql"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">England</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1912</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Alan Turing</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Scientist</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Alan Turing</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/aAxV0G"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBegpVzPy588UxpgskAHClA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBegpVzPy588UxpgskAHClA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDg9ynEnOlDZq4UhUUeBv6A"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RT7IVsfi9iSkZ2KY6FNoIZ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Turkish</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1881</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="tr">Mustafa Kemal Atatürk</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Politician</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Mustafa Kemal Atatürk</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/a21GHF"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBg4M9Uwbcr7SopfB7g4F9u -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBg4M9Uwbcr7SopfB7g4F9u">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RPJ764xvbyNYjP9ZGyPePU"/>
+        <rdfs:label>The Godfather</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBmvXeWAPJmp2P1y9a5LRux -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBmvXeWAPJmp2P1y9a5LRux">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WdwTLc8u2zkgEIXwKuChF"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RIkClBkpGXoTn1WaLKXXIF"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">England</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">J. K. Rowling</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Writer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>J. K. Rowling</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/RyPIUg"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBptseWOnpKwITL5VzCcdKm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBptseWOnpKwITL5VzCcdKm">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RSWH1gGDPukEAbxllWmwNA"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1928</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Stanley Kubrick</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">director</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Stanley Kubrick</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/d3p0FM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ">
+        <rdfs:label>True</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC0V9UKllt4yl9Y7Lxjl4I3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC0V9UKllt4yl9Y7Lxjl4I3">
+        <rdfs:label>The father of Pop</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC1KgNsZABUWKBfRWMdb5F9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC1KgNsZABUWKBfRWMdb5F9">
+        <rdfs:label>False </rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC456FAqyr7BDaCDlZtxX9H -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC456FAqyr7BDaCDlZtxX9H">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC7op7E7uKfvSZAzRZgr0Qn"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Argentina</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1960</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Diego Maraddona</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Footballer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">D. Maradona</rdfs:label>
+        <rdfs:seeAlso xml:lang="tr">https://g.co/kgs/nqlbQy</rdfs:seeAlso>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC4UuaHu0fgCyGTEZbWjStN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC4UuaHu0fgCyGTEZbWjStN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7XoClQvsQEZOplDq76UNgm"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCE6qC2Cb5pNajwqAD1TFb7"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Jamaika</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1986</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Usain Bolt</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Running</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Usain Bolt</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/uNPS3Z"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC9w8P96AcHpEVRL0JvIik0 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC9w8P96AcHpEVRL0JvIik0">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/RJdKUQ4iwMRAbcXVJYuVtq"/>
+        <rdfs:label>MGM</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCCcwnqxc7Sfec2TXLExrcL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCCcwnqxc7Sfec2TXLExrcL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8mjRPr1nFUxER4EWOWYgsi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RD2GLc2kODciZUqVd8rm8pU"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">England</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1564</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">William Shakespeare</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Writer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">William Shakespeare</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/zqYU3q"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCMBSJDUeHj9i700U8xVYVH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCMBSJDUeHj9i700U8xVYVH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9Y6KQKjMEqggRMTpKheEYB"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RClFCPDoE6BZPzxEKc6Eup7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Africa</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1918</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Nelson Mandela</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Politician</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Nelson Mandela</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/Zcl9Oq"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCTxasDrbHVGnUQrgu7gCdv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCTxasDrbHVGnUQrgu7gCdv">
+        <owl:sameAs rdf:resource="http://webprotege.stanford.edu/REDlpNXkyUY3PhhZH156qX"/>
+        <rdfs:label>Blonde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDi733pvGHnZqEpAEwQrSOw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDi733pvGHnZqEpAEwQrSOw">
+        <rdfs:label>16. President of ABD</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDu7UxCfsCnxswkxYGwYk9G -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDu7UxCfsCnxswkxYGwYk9G">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8Mr65wU52y7pkgpdFrQs4A"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">English</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1942</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Stephen Hawking</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scientest</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Stephen Hawking</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/YpAehM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/REDlpNXkyUY3PhhZH156qX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/REDlpNXkyUY3PhhZH156qX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RFdPSJJGsLbLQlkNbGfYRt"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1926</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Marilyn Monroe</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actresses</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Marilyn Monroe</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/Qo6Rj5"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RESqLek3pWCAjLTgO4aNtm -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RESqLek3pWCAjLTgO4aNtm">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Reks6hFmR6kiKLATi6rA4w"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Burberry</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Fashion</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Cristoper Bailey</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/eZkUIe"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RIkClBkpGXoTn1WaLKXXIF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RIkClBkpGXoTn1WaLKXXIF">
+        <rdfs:label>Harry Potter Series&apos; Writer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJdKUQ4iwMRAbcXVJYuVtq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RJdKUQ4iwMRAbcXVJYuVtq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RSWH1gGDPukEAbxllWmwNA"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">England</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1899</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Alfred Hitchcock</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">director</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Alfred Hitchcock</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://sanatkaravani.com/ikonlasmis-11-unlu-ismin-dogal-halleri/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RK7UVxYn33f0sy18E8igg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RK7UVxYn33f0sy18E8igg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBFNbYKQkPjbFVXShWP9Cy8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RlMoLNsEbaP61GK5FKq5u6"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Turkish</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="tr">Aziz Sancar</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scientist</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Aziz Sancar</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/MsPnRY"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RO3rjzpcGDUtSaQrLZkRyn -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RO3rjzpcGDUtSaQrLZkRyn">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeAirLLWQU6QbET8LWRvEM"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1889</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Charlie Chaplin</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Actor</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Charlie Chaplin</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/Czic95"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RPJ764xvbyNYjP9ZGyPePU -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RPJ764xvbyNYjP9ZGyPePU">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDeAirLLWQU6QbET8LWRvEM"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="e">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1940</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="e">Al Pacino</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Actor</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Al Pacino</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/z4DzQn"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTMnG3KsnWcStjMwrRXaNb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RTMnG3KsnWcStjMwrRXaNb">
+        <rdfs:label>Pride and Prejudice&apos;s Writer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWaCvyxA29B4XdllfW6Ga2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RWaCvyxA29B4XdllfW6Ga2">
+        <rdfs:label>Marilyn Monroe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RbLcaZCvlTCqNe4GXjnvm3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RbLcaZCvlTCqNe4GXjnvm3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9dbvwPaax5YPpo51r8yzCv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RFdPSJJGsLbLQlkNbGfYRt"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">Holland</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1929</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="eng">Audrey Hepburn</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Actresses</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Audrey Hepburn</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/wd2uLY"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ReS5udegxkuCOzKLSBaGzD -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ReS5udegxkuCOzKLSBaGzD">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8fAqsfyXb8iDRKJIBjdwy"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTQ6WEt7vcjGEjSyqqziMH"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">India</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1869</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="na">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Mahatma Gandhi</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Politician/Lawyer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Gandhi</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/JIvJMd"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RnObGfCHAQShS9DLEmNxFM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RnObGfCHAQShS9DLEmNxFM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RI0VXLe0mQGrEqeNFSVNJk"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz xml:lang="en">1950</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Johnny Cash</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg xml:lang="en">Singer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label xml:lang="en">Johnny Cash</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/TpdrHX"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqKIXymfo5FZX97yYlmUkN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RqKIXymfo5FZX97yYlmUkN">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7rwBg3xOXU3DnDDN2rWEek"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RI0VXLe0mQGrEqeNFSVNJk"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1935</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Elvis Presley</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Singer</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Elvis Presley</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/Uhdgrd"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rrs7Mne0qBcF30QlITSQp7">
+        <rdfs:label>True </rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rt9lJjhJWSjHWa35XKwO9y -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rt9lJjhJWSjHWa35XKwO9y">
+        <rdfs:label>Titanic&apos;s Soundtracks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RtC9mys25QiERUjzBf6TYe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RtC9mys25QiERUjzBf6TYe">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7aXFrAWF41E4tdF6yhqbSv"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1942</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Muhammed Ali Clay</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boxing</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Muhammed Ali Clay</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.google.com.tr/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwji9OeepuHTAhVSblAKHS_KAYIQFggiMAA&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMuhammad_Ali&amp;usg=AFQjCNGEHeXc9L2boeB78U6s3gZQkwVJQQ&amp;sig2=RlqMLj5EUFdXDXa-hdy2vA"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RwWmXpHyyxfg3qftd2FMsT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RwWmXpHyyxfg3qftd2FMsT">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDV876BvsdZvlTGrhGoDfVd"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDwsi6yWTnrrgK9HDd7YPJd"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/R8BG7497H8TVivJ4VFpqAbN"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="en">England</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1949</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Female</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Lesley Hornby</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fashion</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Twiggy</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.belister.com/liste/60larin-moda-ikonlaribugun-bile-bize-ilham-veren-10-stil-sahibi-kadin/"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RzozufgtykOnRZtI5JIR48 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RzozufgtykOnRZtI5JIR48">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7WgzuIAtE9kCkVSJn59cNi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9W87s9Xahgtt831JnW72S0"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RZWAcmlBUMXoi8PtHByBh9"/>
+        <webprotege:R9JB9ANKD1AJBBWOlM0ow6 rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBU082CsmEgAmpiIoMU2hSL rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:RBb26JuEW9kt303JI7Byd6W rdf:resource="http://webprotege.stanford.edu/RBwj32WKNThOaZYsC4jGNJZ"/>
+        <webprotege:R7fderhzFaL02McVjoiwv4J xml:lang="enicon">Chinese</webprotege:R7fderhzFaL02McVjoiwv4J>
+        <webprotege:R8ouAwISkQ7Rg81ku9Phtyz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1940</webprotege:R8ouAwISkQ7Rg81ku9Phtyz>
+        <webprotege:RBHhCLJGaKz2oolmUQSbXO7 xml:lang="en">Male</webprotege:RBHhCLJGaKz2oolmUQSbXO7>
+        <webprotege:RBOaSJNHdlWDEsAWMcciPIT xml:lang="en">Bruce Lee</webprotege:RBOaSJNHdlWDEsAWMcciPIT>
+        <webprotege:RCf3Wq67wAf5dVbNg1BNDTg rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Judo</webprotege:RCf3Wq67wAf5dVbNg1BNDTg>
+        <rdfs:label>Bruce Lee</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://g.co/kgs/iNr7aB"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
